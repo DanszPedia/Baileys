@@ -106,5 +106,5 @@
       "underscore": "^1.13.8",
       "yaml@npm:^2.6.1": "^2.8.4"
    },
-   "packageManager": "yarn@4.9.2"
+   "packageManager": "yarn@latest"
 }
